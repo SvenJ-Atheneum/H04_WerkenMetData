@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="B4_1_CastingExperiment/B4_1_CastingExperiment.csproj" />
+  <Project Path="B4_2_ConvertParseVergelijking/B4_2_ConvertParseVergelijking.csproj" />
+  <Project Path="B4_3_MathBibliotheekVerkennen/B4_3_MathBibliotheekVerkennen.csproj" />
+  <Project Path="E4_1_GeavanceerdeRekenmachine/E4_1_GeavanceerdeRekenmachine.csproj" />
+  <Project Path="E4_2_Dobbelsteenspel/E4_2_Dobbelsteenspel.csproj" />
+  <Project Path="E4_3_FysicaCalculator/E4_3_FysicaCalculator.csproj" />
+  <Project Path="P4_1_StatistiekenGenerator/P4_1_StatistiekenGenerator.csproj" />
+  <Project Path="P4_2_DebugoefeningBugsOpsporen/P4_2_DebugoefeningBugsOpsporen.csproj" />
+</Solution>
